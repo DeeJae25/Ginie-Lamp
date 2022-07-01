@@ -36,3 +36,6 @@
 ## Order Screen
 
 ![orderscreen](https://github.com/DeeJae25/Ginie-Lamp/blob/master/uploads/OrderScreen.png?raw=true)
+
+# GinieLamp
+[App-Link](http://ginielampapp.herokuapp.com/)
